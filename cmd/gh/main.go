@@ -10,3 +10,4 @@ func main() {
 	code := ghcmd.Main()
 	os.Exit(int(code))
 }
+
